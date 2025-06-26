@@ -1,0 +1,2 @@
+E:\Projects\EzraDemo-ReactJS\ezrademo-reactjs.client\obj\Debug\ezrademo-reactjs.client.esproj.CoreCompileInputs.cache
+E:\Projects\EzraDemo-React\ezrademo-reactjs.client\obj\Debug\ezrademo-reactjs.client.esproj.CoreCompileInputs.cache

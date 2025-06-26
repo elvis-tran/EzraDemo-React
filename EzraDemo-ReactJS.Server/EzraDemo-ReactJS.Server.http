@@ -1,0 +1,11 @@
+@EzraDemo_ReactJS.Server_HostAddress = http://localhost:5022
+
+GET {{EzraDemo_ReactJS.Server_HostAddress}}/api/tasks
+Accept: application/json
+###
+POST {{EzraDemo_ReactJS.Server_HostAddress}}/api/tasks
+Accept: application/json
+###
+PATCH {{EzraDemo_ReactJS.Server_HostAddress}}/api/tasks/completed
+Accept: application/json
+###

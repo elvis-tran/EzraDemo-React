@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzraDemo-ReactJS.Server", "EzraDemo-ReactJS.Server\EzraDemo-ReactJS.Server.csproj", "{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ezrademo-reactjs.client", "ezrademo-reactjs.client\ezrademo-reactjs.client.esproj", "{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzraDemo.Application", "EzraDemo-ReactJS.Server\EzraDemo.Application\EzraDemo.Application.csproj", "{F7E4F801-A193-4093-9F1E-AC231C65B835}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzraDemo.Domain", "EzraDemo-ReactJS.Server\EzraDemo.Domain\EzraDemo.Domain.csproj", "{909935AF-A36E-4A84-A89A-CB6749DD8C2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzraDemo.Infrastructure", "EzraDemo-ReactJS.Server\EzraDemo.Infrastructure\EzraDemo.Infrastructure.csproj", "{81168791-1140-4126-9ADE-AE8EDABCD169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F7E4F801-A193-4093-9F1E-AC231C65B835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E4F801-A193-4093-9F1E-AC231C65B835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E4F801-A193-4093-9F1E-AC231C65B835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E4F801-A193-4093-9F1E-AC231C65B835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909935AF-A36E-4A84-A89A-CB6749DD8C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909935AF-A36E-4A84-A89A-CB6749DD8C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909935AF-A36E-4A84-A89A-CB6749DD8C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909935AF-A36E-4A84-A89A-CB6749DD8C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81168791-1140-4126-9ADE-AE8EDABCD169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81168791-1140-4126-9ADE-AE8EDABCD169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81168791-1140-4126-9ADE-AE8EDABCD169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81168791-1140-4126-9ADE-AE8EDABCD169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4291DE1-3C5D-4922-AFC4-0D56884DCB52}
+	EndGlobalSection
+EndGlobal

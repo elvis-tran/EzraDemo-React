@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5174",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\..\\ezrademo-reactjs.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

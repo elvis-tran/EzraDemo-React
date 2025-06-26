@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EzraDemo-ReactJS.Server\\EzraDemo-ReactJS.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ezrademo-reactjs.client\\ezrademo-reactjs.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
