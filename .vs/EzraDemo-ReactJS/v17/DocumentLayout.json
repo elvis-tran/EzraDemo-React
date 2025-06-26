@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Projects\\EzraDemo-React\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}|ezrademo-reactjs.client\\ezrademo-reactjs.client.esproj|e:\\projects\\ezrademo-react\\ezrademo-reactjs.client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F8FD7BD-D4C1-4996-9C8C-7AC6B43788F9}|ezrademo-reactjs.client\\ezrademo-reactjs.client.esproj|solutionrelative:ezrademo-reactjs.client\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}|EzraDemo-ReactJS.Server\\EzraDemo-ReactJS.Server.csproj|e:\\projects\\ezrademo-react\\ezrademo-reactjs.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}|EzraDemo-ReactJS.Server\\EzraDemo-ReactJS.Server.csproj|solutionrelative:ezrademo-reactjs.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}|EzraDemo-ReactJS.Server\\EzraDemo-ReactJS.Server.csproj|e:\\projects\\ezrademo-react\\ezrademo-reactjs.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAC1EA2-891D-4204-9E16-A5C30BF835BC}|EzraDemo-ReactJS.Server\\EzraDemo-ReactJS.Server.csproj|solutionrelative:ezrademo-reactjs.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F801-A193-4093-9F1E-AC231C65B835}|EzraDemo-ReactJS.Server\\EzraDemo.Application\\EzraDemo.Application.csproj|e:\\projects\\ezrademo-react\\ezrademo-reactjs.server\\ezrademo.application\\factories\\taskitemdtofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E4F801-A193-4093-9F1E-AC231C65B835}|EzraDemo-ReactJS.Server\\EzraDemo.Application\\EzraDemo.Application.csproj|solutionrelative:ezrademo-reactjs.server\\ezrademo.application\\factories\\taskitemdtofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81168791-1140-4126-9ADE-AE8EDABCD169}|EzraDemo-ReactJS.Server\\EzraDemo.Infrastructure\\EzraDemo.Infrastructure.csproj|e:\\projects\\ezrademo-react\\ezrademo-reactjs.server\\ezrademo.infrastructure\\repositories\\taskrepositorysqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81168791-1140-4126-9ADE-AE8EDABCD169}|EzraDemo-ReactJS.Server\\EzraDemo.Infrastructure\\EzraDemo.Infrastructure.csproj|solutionrelative:ezrademo-reactjs.server\\ezrademo.infrastructure\\repositories\\taskrepositorysqlite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F801-A193-4093-9F1E-AC231C65B835}|EzraDemo-ReactJS.Server\\EzraDemo.Application\\EzraDemo.Application.csproj|e:\\projects\\ezrademo-react\\ezrademo-reactjs.server\\ezrademo.application\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E4F801-A193-4093-9F1E-AC231C65B835}|EzraDemo-ReactJS.Server\\EzraDemo.Application\\EzraDemo.Application.csproj|solutionrelative:ezrademo-reactjs.server\\ezrademo.application\\dtos\\taskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E4F801-A193-4093-9F1E-AC231C65B835}|EzraDemo-ReactJS.Server\\EzraDemo.Application\\EzraDemo.Application.csproj|e:\\projects\\ezrademo-react\\ezrademo-reactjs.server\\ezrademo.application\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E4F801-A193-4093-9F1E-AC231C65B835}|EzraDemo-ReactJS.Server\\EzraDemo.Application\\EzraDemo.Application.csproj|solutionrelative:ezrademo-reactjs.server\\ezrademo.application\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\Program.cs",
+              "RelativeDocumentMoniker": "EzraDemo-ReactJS.Server\\Program.cs",
+              "ToolTip": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\Program.cs",
+              "RelativeToolTip": "EzraDemo-ReactJS.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:16:36.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api.js",
+              "DocumentMoniker": "E:\\Projects\\EzraDemo-React\\ezrademo-reactjs.client\\src\\api.js",
+              "RelativeDocumentMoniker": "ezrademo-reactjs.client\\src\\api.js",
+              "ToolTip": "E:\\Projects\\EzraDemo-React\\ezrademo-reactjs.client\\src\\api.js",
+              "RelativeToolTip": "ezrademo-reactjs.client\\src\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-26T05:07:05.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "EzraDemo-ReactJS.Server\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "EzraDemo-ReactJS.Server\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:06:45.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskRepositorySqlite.cs",
+              "DocumentMoniker": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Infrastructure\\Repositories\\TaskRepositorySqlite.cs",
+              "RelativeDocumentMoniker": "EzraDemo-ReactJS.Server\\EzraDemo.Infrastructure\\Repositories\\TaskRepositorySqlite.cs",
+              "ToolTip": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Infrastructure\\Repositories\\TaskRepositorySqlite.cs",
+              "RelativeToolTip": "EzraDemo-ReactJS.Server\\EzraDemo.Infrastructure\\Repositories\\TaskRepositorySqlite.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:05:18.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItemDtoFactory.cs",
+              "DocumentMoniker": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Application\\Factories\\TaskItemDtoFactory.cs",
+              "RelativeDocumentMoniker": "EzraDemo-ReactJS.Server\\EzraDemo.Application\\Factories\\TaskItemDtoFactory.cs",
+              "ToolTip": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Application\\Factories\\TaskItemDtoFactory.cs",
+              "RelativeToolTip": "EzraDemo-ReactJS.Server\\EzraDemo.Application\\Factories\\TaskItemDtoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:04:30.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItemDto.cs",
+              "DocumentMoniker": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\TaskItemDto.cs",
+              "RelativeDocumentMoniker": "EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\TaskItemDto.cs",
+              "ToolTip": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\TaskItemDto.cs",
+              "RelativeToolTip": "EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\TaskItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:04:26.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\CreateTaskDto.cs",
+              "ToolTip": "E:\\Projects\\EzraDemo-React\\EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\CreateTaskDto.cs",
+              "RelativeToolTip": "EzraDemo-ReactJS.Server\\EzraDemo.Application\\DTOs\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:04:25.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

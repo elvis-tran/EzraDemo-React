@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EzraDemo-ReactJS.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae3dda28d484869a86b8292f140292f850752f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6ad88693b77bbebf7a2149fe3830c04b0bb9345")]
 [assembly: System.Reflection.AssemblyProductAttribute("EzraDemo-ReactJS.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EzraDemo-ReactJS.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

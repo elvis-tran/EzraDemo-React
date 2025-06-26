@@ -17,7 +17,7 @@ export async function fetchTasks() {
         return [];
     }
     catch (error) {
-        console.log(error);
+        console.log('Failed to retrieve tasks (API):', error.response?.data || error.message);
         return [];
     }
 }
@@ -37,7 +37,7 @@ export async function createTask(task) {
         };
     }
     catch (error) {
-        console.log('Create task error:', error.response?.data || error.message);
+        console.log('Create task error (API):', error.response?.data || error.message);
     }
 }
 
@@ -53,7 +53,7 @@ export async function toggleTask(id) {
             taskType: taskData.taskType ?? taskData.TaskType
         };
     } catch (error) {
-        console.error('Toggle task failed:', error.response?.data || error.message);
+        console.error('Toggle task failed (API):', error.response?.data || error.message);
         throw error;
     }
 }
@@ -61,9 +61,9 @@ export async function toggleTask(id) {
 export async function deleteCompletedTasks() {
     try {
         const response = await axios.delete(`${API_URL}/tasks/completed`);
-        return response.data;  // { deleted: number }
+        return response.data;  // Number of deleted tasks
     } catch (error) {
-        console.error('Failed to delete completed tasks:', error.response?.data || error.message);
+        console.error('Failed to delete completed tasks (API):', error.response?.data || error.message);
         throw error;
     }
 }

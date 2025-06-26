@@ -11,7 +11,7 @@ namespace EzraDemo.Application.Factories
 {
     public class TaskItemDtoFactory
     {
-        //Can use an inheritable class in the future for creating new TaskItemDTOs
+        //Can use an inheritable class in the future for creating new types of TaskItemDTOs
         public static TaskItemDto CreateTaskItemDto(TaskItem taskItem)
         {
             return new TaskItemDto
